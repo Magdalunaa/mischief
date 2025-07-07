@@ -10,3 +10,7 @@ to set it up just download the script, place it somewhere, and either schedule i
 to configure open the script, you can comment and uncomment strings to enable or disable those mischief events. you can also chose whether the script will schedule itself or not, and how frequently
 
 if you have any ideas (and can figure out how the script works) feel free to add them!
+
+---
+
+scheduling requires at, script requires luafilesystem, some events require other stuff but that's mentioned beside them
